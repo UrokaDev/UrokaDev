@@ -1,5 +1,6 @@
-![ASCII Hacker Style](assets/TKcmR.gif)
-
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif](https://imgflip.com/gif/a554jb"  />
+</div>
 <h1 align="left">Hi! Welcome to My Digital Lab</h1>
 
 ###
