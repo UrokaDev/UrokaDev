@@ -60,11 +60,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UrokaDev/UrokaDev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UrokaDev/UrokaDev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/UrokaDev/UrokaDev/output/pacman-contribution-graph.svg">
-</picture>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Access+Granted...;Coding+the+Matrix;#!/usr/bin/env+hacker;Exploring+Linux+World;Ethical+Hacking+Mode+ON;echo+'Hello%2C+World!';Building+%26+Breaking;Learning+by+Doing;Sharing+Knowledge+%7C+Sharing+Code)](https://git.io/typing-svg)
 
 ###
 
