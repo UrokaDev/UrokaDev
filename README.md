@@ -44,7 +44,7 @@
 ###
 
 <div align="left">
-  <a href="urokadev@gmail.com" target="_blank">
+  <a href="urokadev@gmail.com">Enviar correo</a>
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=gray&logoColor=black&labelColor=&style=flat" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/juan._duran.png/" target="_blank">
