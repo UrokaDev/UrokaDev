@@ -43,18 +43,15 @@
 
 ###
 
-<<div align="left">
-  <a href="mailto:urokadev@gmail.com"></a>
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=gray&logoColor=black&labelColor=&style=flat" height="40" alt="gmail logo"  />
-  </a>
+<a href="mailto:urokadev@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=gray&logoColor=black&labelColor=&style=flat" height="60" alt="gmail logo"  /></a>
   <a href="https://www.instagram.com/juan._duran.png/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=gray&logoColor=black&labelColor=&style=flat" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=gray&logoColor=black&labelColor=&style=flat" height="60" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/users/0loos" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=gray&logoColor=black&labelColor=&style=flat" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=gray&logoColor=black&labelColor=&style=flat" height="60" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UCTFApYisDR5W4xCAjY-fIVg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=gray&logoColor=black&labelColor=&style=flat" height="40" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=gray&logoColor=black&labelColor=&style=flat" height="60" alt="youtube logo"  />
   </a>
 </div>
 
