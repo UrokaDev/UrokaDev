@@ -1,4 +1,4 @@
-<h1 align="right">Hi! Welcome to My Digital Lab</h1>
+<h1 align="left">Hi! Welcome to My Digital Lab</h1>
 
 ###
 
