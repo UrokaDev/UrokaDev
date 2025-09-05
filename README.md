@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://i.sstatic.net/TKcmR.gif"  />
+  <img height="200" src="https://i.sstatic.net/TKcmR.gif"  />
 </div>
 <h1 align="left">Hi! Welcome to My Digital Lab</h1>
 
